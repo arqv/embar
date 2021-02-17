@@ -1,0 +1,5 @@
+#+TITLE: embar
+=embar= is a proof-of-concept system status bar (similar in vein to Lemonbar) implemented in Emacs Lisp.
+
+*** What does work now?
+    Nothing, this is still in active development.
